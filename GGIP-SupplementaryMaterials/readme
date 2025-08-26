@@ -1,0 +1,19 @@
+[Supporting information]
+
+Table S1. UniProt accession numbers of the experimentally determined interacting GPCRs.
+Table S2. UniProt accession numbers of the experimentally determined non-interacting GPCRs.
+Table S3. UniProt accession numbers of the negative GPCR pairs obtained using the gene expression-based method.
+Table S4. PDB IDs and chains used as templates.
+Table S5. Encoding table for twenty types of amino acids.
+Table S6. Encoding table for the secondary structure of a target amino acid sequence.
+Table S7. Encoding table for rASA to define exposed and buried residues.
+Table S8. Encoding table for sequential segmentation of a GPCR sequence.
+Table S9. The number of nodes at each intermediate layer in the AE network.
+Table S10. Parameter settings of AE.
+Table S11. Parameter settings of SVM.
+Table S12. Parameter settings of GBDT.
+Table S13. Time spent by each predictor for training.
+Table S14. Time spent to generate a feature vector of a GPCR pair.
+Table S15. Time spent to discriminate a pair into an interacting or a non-interaction pair.
+Table S16. Each cell is the number of edges connecting each expression level classifi-cation to each tissue/organ.
+
