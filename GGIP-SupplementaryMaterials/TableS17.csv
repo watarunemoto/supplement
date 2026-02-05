@@ -1,0 +1,43 @@
+﻿id1,Protein1,Gene1,id2,Protein2,Gene2,pred,proba1
+P30935,Somatostatin receptor type 3,Sstr3,Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,1,0.803843737
+P97772,Metabotropic glutamate receptor 1,Grm1,Q3UVX5,Metabotropic glutamate receptor 5,Grm5,1,0.994941652
+P30935,Somatostatin receptor type 3,Sstr3,Q3UVX5,Metabotropic glutamate receptor 5,Grm5,1,0.969339967
+P14600,Substance-P receptor,Tacr1,P33535,Mu-type opioid receptor,Oprm1,1,0.974878013
+P30935,Somatostatin receptor type 3,Sstr3,P97772,Metabotropic glutamate receptor 1,Grm1,1,0.90760535
+P30935,Somatostatin receptor type 3,Sstr3,Q14BI2,Metabotropic glutamate receptor 2,Grm2,1,0.984403133
+P30935,Somatostatin receptor type 3,Sstr3,Q3UN16,Probable G-protein coupled receptor 162,Gpr162,0,0.041493099
+P18901,D(1A) dopamine receptor,Drd1,P25095,Type-1 angiotensin II receptor A,Agtr1,1,0.907541156
+P30935,Somatostatin receptor type 3,Sstr3,P70205,Pituitary adenylate cyclase-activating polypeptide type I receptor,Adcyap1r1,1,0.770405233
+Q3UHD1,Adhesion G protein-coupled receptor B1,Adgrb1,Q8CGM1,Adhesion G protein-coupled receptor B2,Adgrb2,1,0.997409165
+Q61616,D(1A) dopamine receptor,Drd1,P35375,Prostaglandin E2 receptor EP1 subtype,Ptger1,1,0.707437277
+Q68ED2,Metabotropic glutamate receptor 7,Grm7,Q68EF4,Metabotropic glutamate receptor 4,Grm4,1,0.997776091
+Q68EF4,Metabotropic glutamate receptor 4,Grm4,Q9QYS2,Metabotropic glutamate receptor 3,Grm3,1,0.977657676
+Q6NS65,Uracil nucleotide/cysteinyl leukotriene receptor,Gpr17,Q99JA4,Cysteinyl leukotriene receptor 1,Cysltr1,1,0.966416597
+Q6R6I7,Relaxin receptor 1,Rxfp1,Q7TT36,Adhesion G protein-coupled receptor A3,Adgra3,1,0.991981924
+Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,Q9WV18,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1,1,0.998149753
+Q80TR1,Adhesion G protein-coupled receptor L1,Adgrl1,Q80TS3,Adhesion G protein-coupled receptor L3,Adgrl3,1,0.998942912
+Q91ZZ5,Relaxin receptor 2,Rxfp2,Q9Z1P4,Leucine-rich repeat-containing G-protein coupled receptor 5,Lgr5,0,0.255258858
+Q99JA4,Cysteinyl leukotriene receptor 1,Cysltr1,Q6NS65,Uracil nucleotide/cysteinyl leukotriene receptor,Gpr17,1,0.970674276
+Q9QYN8,Histamine H3 receptor,Hrh3,P30543,Adenosine receptor A2a,Adora2a,1,0.979973555
+Q9V5N8,Protocadherin-like wing polarity protein stan,stan,P18537,Frizzled,fz,1,0.948811531
+Q9WV18,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1,Q80T41,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,1,0.996817708
+Q9Z0U4,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1,O88871,Gamma-aminobutyric acid type B receptor subunit 2,Gabbr2,1,0.996345222
+P30935,Somatostatin receptor type 3,Sstr3,Q8C419,Metabotropic glycine receptor,Gpr158,1,0.811614394
+P30935,Somatostatin receptor type 3,Sstr3,Q8CGM1,Adhesion G protein-coupled receptor B2,Adgrb2,1,0.945493877
+P30935,Somatostatin receptor type 3,Sstr3,Q9WV18,Gamma-aminobutyric acid type B receptor subunit 1,Gabbr1,1,0.978479922
+P61169,D(2) dopamine receptor,Drd2,P30680,Somatostatin receptor type 2,Sstr2,1,0.96816057
+P30935,Somatostatin receptor type 3,Sstr3,Q80TR1,Adhesion G protein-coupled receptor L1,Adgrl1,1,0.984019399
+P33535,Mu-type opioid receptor,Oprm1,P14600,Substance-P receptor,Tacr1,1,0.808538973
+P35375,Prostaglandin E2 receptor EP1 subtype,Ptger1,Q61616,D(1A) dopamine receptor,Drd1,1,0.75684911
+D6VTK4,Pheromone alpha factor receptor,STE2,P06783,Pheromone a factor receptor,STE3,0,0.003897948
+P61169,D(2) dopamine receptor,Drd2,P30543,Adenosine receptor A2a,Adora2a,1,0.971525729
+P20272,Cannabinoid receptor 1,Cnr1,P30543,Adenosine receptor A2a,Adora2a,1,0.865568876
+P25095,Type-1 angiotensin II receptor A,Agtr1,P18901,D(1A) dopamine receptor,Drd1,1,0.847853303
+P30543,Adenosine receptor A2a,Adora2a,P31424,Metabotropic glutamate receptor 5,Grm5,1,0.999236941
+P30543,Adenosine receptor A2a,Adora2a,Q9QYN8,Histamine H3 receptor,Hrh3,1,0.999271572
+P30935,Somatostatin receptor type 3,Sstr3,P35363,5-hydroxytryptamine receptor 2A,Htr2a,1,0.946037889
+P30935,Somatostatin receptor type 3,Sstr3,P47746,Cannabinoid receptor 1,Cnr1,0,0.202146739
+P30935,Somatostatin receptor type 3,Sstr3,Q99JG2,G-protein coupled receptor 37-like 1,Gpr37l1,1,0.925223053
+P30935,Somatostatin receptor type 3,Sstr3,Q9QY42,Prosaposin receptor GPR37,Gpr37,1,0.505007207
+P30937,Somatostatin receptor type 4,Sstr4,P33533,Delta-type opioid receptor,Oprd1,1,0.989379942
+P30994,5-hydroxytryptamine receptor 2B,Htr2b,P25095,Type-1 angiotensin II receptor A,Agtr1,1,0.9239375
